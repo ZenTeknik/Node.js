@@ -21,5 +21,5 @@ https://www.youtube.com/watch?v=fBNz5xF-Kx4
 //Best types project for Node
 //short answer : Anything that is not CPU instenisve
 // like Real Time services (chat,utilities)
-// 
+
   
