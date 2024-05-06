@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=fBNz5xF-Kx4
 //short answer : Anything that is not CPU instenisve
 // like Real Time services (chat,utilities)
 
-  
+  //
