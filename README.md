@@ -23,6 +23,8 @@ Command :
 ->npm install uuid
 ->node file.js (to run the code thorough terminal)
 
+console.log(_dirname,_filename)  (give the file  name and directory)
+
 
 //Best types project for Node
 //short answer : Anything that is not CPU instenisve
