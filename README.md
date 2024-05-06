@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=fBNz5xF-Kx4
 
 
 Command :
-npm init (to create the package)
-npm install uuid
-node file.js (to run the code thorough terminal)
+->npm init (to create the package)
+->npm install uuid
+->node file.js (to run the code thorough terminal)
 
 
 //Best types project for Node
