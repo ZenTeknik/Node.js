@@ -18,6 +18,11 @@ https://www.youtube.com/watch?v=fBNz5xF-Kx4
 // node make App very fast and efficent 
 
 
+Command :
+npm init (to create the package)
+npm install uuid
+
+
 //Best types project for Node
 //short answer : Anything that is not CPU instenisve
 // like Real Time services (chat,utilities)
