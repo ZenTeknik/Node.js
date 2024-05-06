@@ -26,11 +26,30 @@ fs.appendFile
 
 
 
-*/
+
 
 // read the file
 fs.readFile(path.join(__dirname, './test','hello.txt'), 'utf8', (err,data) => {
     if (err) throw err;
     console.log(data);
 });
+
+*/
+
+// rename the file 
+fs.rename(
+path.join(__dirname, './test','hello.txt'),
+path.join(__dirname, './test','Haris.txt'),
+ (err)  => {
+    if (err) throw err;
+    console.log("File renamed");
+});
+
+
+
+
+
+
+
+
 
