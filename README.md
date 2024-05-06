@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=fBNz5xF-Kx4
 // like Real Time services (chat,utilities)
 
 // it can give acces to 10k connect to application
+
+// you have to install  Node package manager  that include most of the library that use in node
