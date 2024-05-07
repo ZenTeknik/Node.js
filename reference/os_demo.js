@@ -22,6 +22,6 @@ console.log(os.totalmem());
 // home firectory 
 console.log(os.homedir());  
 
-// uptime 
+// Uptime 
 console.log(os.uptime());
 
